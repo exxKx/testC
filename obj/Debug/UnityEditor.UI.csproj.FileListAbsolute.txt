@@ -1,0 +1,2 @@
+/Users/vladislavkukuskin/Documents/GitHub/testC/obj/Debug/UnityEditor.UI.csproj.AssemblyReference.cache
+/Users/vladislavkukuskin/Documents/GitHub/testC/obj/Debug/UnityEditor.UI.csproj.CoreCompileInputs.cache
